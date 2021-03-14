@@ -26,14 +26,19 @@ ul {
 
 .left-box {
     background-image: linear-gradient(hsl(293, 100%, 63%), hsl(264, 100%, 61%));
-    width: 20%;
-    height: 20rem;
+    width: 22%;
+    height: 32rem;
+    border-bottom-left-radius: 150px;
+    border-bottom-right-radius: 150px;
 }
 
-.half-circle {
+.right-box {
     width: 20%;
-    height: 180px;
-    background-color: hsl(264, 100%, 61%);
-    border-bottom-left-radius: 110px;
-    border-bottom-right-radius: 110px;
+    height: 40rem;
+    background-color: hsl(270, 20%, 96%);
+    border-top-left-radius: 199px;
+    width: 20%;
+    position: absolute;
+    top: 5rem;
+    margin-left: 80%;
 }
