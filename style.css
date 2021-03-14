@@ -253,3 +253,46 @@ body {
     left: 0.8rem;
     font-size: 1.3rem;
 }
+
+footer {
+    margin-top: 1.5rem;
+    height: 2.3rem;
+    text-align: center;
+    padding-top: 0.5rem;
+}
+
+/*
+    ==============================================
+          ****** MEDIA QUERIES FOR TABLET ******
+    ==============================================
+*/
+
+@media only screen and (max-width: 1024px) {
+    .mob {
+        width: 37%;
+    }
+
+    .text {
+        width: 20%;
+        position: absolute;
+        left: 4rem;
+    }
+
+    footer {
+        position: absolute;
+        top: 39rem;
+        left: 5rem;
+    }
+
+
+}
+
+/*
+==============================================
+            ****** MEDIA QUERIES FOR SMARTPHONE ******
+==============================================
+  */
+
+@media only screen and (max-width: 768px) {
+
+}
