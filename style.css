@@ -75,3 +75,60 @@ body {
     border-bottom-left-radius: 19px;
     border-bottom-right-radius: 19px;
 }
+
+.box {
+    background-image: linear-gradient(to left, hsl(293, 100%, 63%), hsl(264, 100%, 61%));
+    height: 4.9rem;
+    border-top-left-radius: 22px;
+    border-top-right-radius: 22px;
+}
+
+.hold {
+    height: 1.2rem;
+    width: 45%;
+    background-color: hsl(0, 0%, 100%);
+    margin-left: 28%;
+    border-bottom-left-radius: 22px;
+    border-bottom-right-radius: 22px;
+}
+
+.content {
+    margin-top: 0.8rem;
+}
+.fa-chevron-left {
+    color: hsl(0, 0%, 100%);
+    position: absolute;
+    left: 0.5rem;
+    top: 2.3rem ;
+}
+
+.content img {
+    width: 10%;
+    border: 1px solid  hsl(0, 0%, 100%);
+    border-radius: 50%;
+    position: absolute;
+    left: 1.7rem;
+}
+
+.name {
+    color: hsl(0, 0%, 100%);
+    font-size: 0.8rem;
+    position: absolute;
+    left: 4rem;
+    top: 2rem ;
+}
+
+.stats {
+    color: hsl(0, 0%, 100%);
+    font-size: 0.5rem;
+    position: absolute;
+    left: 4rem;
+    top: 3.1rem ;
+}
+
+.fa-ellipsis-v {
+    color: hsl(0, 0%, 100%);
+    position: absolute;
+    top: 2.3rem ;
+    right: 1rem;
+}
