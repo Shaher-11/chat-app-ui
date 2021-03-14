@@ -24,6 +24,10 @@ ul {
     ==============================================
 */
 
+
+body {
+    background-color: hsl(270, 20%, 96%);
+}
 .left-box {
     background-image: linear-gradient(hsl(293, 100%, 63%), hsl(264, 100%, 61%));
     width: 22%;
@@ -35,7 +39,7 @@ ul {
 .right-box {
     width: 20%;
     height: 38rem;
-    background-color: hsl(270, 20%, 96%);
+    background-color: hsl(278, 25%, 94%);
     border-top-left-radius: 199px;
     width: 20%;
     position: absolute;
@@ -61,7 +65,7 @@ ul {
 .mob {
     width: 20%;
     height: 26rem;
-    background-color: aqua;
+    background-color: hsl(270, 20%, 96%);
     border: 10px solid hsl(0, 0%, 100%);
     margin-left: 20%;
     position: absolute;
