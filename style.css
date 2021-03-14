@@ -17,3 +17,23 @@
 ul {
     list-style: none;
 }
+
+/*
+    ==============================================
+                ****** Global styles ******
+    ==============================================
+*/
+
+.left-box {
+    background-image: linear-gradient(hsl(293, 100%, 63%), hsl(264, 100%, 61%));
+    width: 20%;
+    height: 20rem;
+}
+
+.half-circle {
+    width: 20%;
+    height: 180px;
+    background-color: hsl(264, 100%, 61%);
+    border-bottom-left-radius: 110px;
+    border-bottom-right-radius: 110px;
+}
