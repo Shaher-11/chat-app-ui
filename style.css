@@ -132,3 +132,22 @@ body {
     top: 2.3rem ;
     right: 1rem;
 }
+
+.msg {
+    margin-top: 1rem;
+    margin-left: 0.7rem;
+}
+
+.msg1,
+.msg2 {
+    color: hsl(276, 55%, 52%);
+    background-color: hsl(278, 25%, 94%);
+    font-size: 0.6rem;
+    width: 62%;
+    padding: 0.5rem;
+    border-radius: 17%;
+}
+
+.msg2 {
+    margin-top: 0.5rem;
+}
