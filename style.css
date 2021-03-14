@@ -226,3 +226,30 @@ body {
 .circle2 {
     bottom: 4.5rem;
 }
+
+.answer {
+    margin: 0.8rem 0.5rem;
+}
+
+.my-input {
+    width: 100%;
+    height: 2.3rem;
+}
+
+.send {
+    background-color: black;
+    width: 13%;
+    height: 1.8rem;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 0.9rem;
+    left: 13.6rem;
+}
+
+.fa-chevron-right {
+    color: white;
+    position: absolute;
+    bottom: 0.3rem;
+    left: 0.8rem;
+    font-size: 1.3rem;
+}
