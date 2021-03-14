@@ -58,3 +58,16 @@ ul {
     color: hsl(270, 7%, 64%);
 }
 
+.mob {
+    width: 20%;
+    height: 26rem;
+    background-color: aqua;
+    border: 10px solid hsl(0, 0%, 100%);
+    margin-left: 20%;
+    position: absolute;
+    top: 10%;
+    border-top-left-radius: 19px;
+    border-top-right-radius: 19px;
+    border-bottom-left-radius: 19px;
+    border-bottom-right-radius: 19px;
+}
