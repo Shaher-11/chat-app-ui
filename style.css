@@ -146,8 +146,36 @@ body {
     width: 62%;
     padding: 0.5rem;
     border-radius: 17%;
+    line-height: 0.9rem;
 }
 
 .msg2 {
+    margin-top: 0.5rem;
+}
+
+.reply1 {
+    width: 65%;
+    margin-top: 1rem;
+    margin-left: 5.9rem;
+}
+
+.reply1 img {
+    width: 30%;
+    border-radius: 25%;
+    padding: 0 0.2rem;
+}
+
+.reply2 {
+    background-color: white;
+    font-size: 0.6rem;
+    width: 62%;
+    padding: 0.5rem;
+    border-radius: 17%;
+    margin-left: 5.7rem;
+    line-height: 0.9rem;
+    margin-top: 0.5rem;
+}
+
+.ask {
     margin-top: 0.5rem;
 }
