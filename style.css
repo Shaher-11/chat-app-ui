@@ -34,7 +34,7 @@ ul {
 
 .right-box {
     width: 20%;
-    height: 40rem;
+    height: 38rem;
     background-color: hsl(270, 20%, 96%);
     border-top-left-radius: 199px;
     width: 20%;
@@ -57,3 +57,4 @@ ul {
 .text p {
     color: hsl(270, 7%, 64%);
 }
+
